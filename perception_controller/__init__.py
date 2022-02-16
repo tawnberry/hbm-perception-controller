@@ -1,0 +1,1 @@
+from .perception_automation import main
